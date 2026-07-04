@@ -1,0 +1,6 @@
+{
+  "name": "Comzee Team Debrief Builder",
+  "description": "An interactive full-stack tool for experiential learning facilitators to build, analyze, and present beautiful team-building debriefs using AI-powered insights and charts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
